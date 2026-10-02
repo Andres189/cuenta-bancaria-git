@@ -1,0 +1,7 @@
+*   eeab0ff (HEAD -> main, origin/main, origin/HEAD) Merge pull request #1 from Andres189/feature/retiros
+|\  
+| * cf67f23 Dice cuántos retiros fueron gratis
+| * 1132098 Muestra el número de retiros
+|/  
+* 46543bb MP-1: mi nombre en el estado de cuenta
+* 0f0e769 MP-0: la cuenta bancaria
